@@ -1,0 +1,5 @@
+cd          改变当前目录              cd dirname
+pwd         显示当前目录的路径名       pwd
+Ls          显示当前目录的内容         ls -la
+python3 打开python
+python文件 需要在终端里以 python+文件名方式打开。注意要在python文件夹目录下使用该命令
